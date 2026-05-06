@@ -102,11 +102,8 @@ systems with intuitive and seamless interactions.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mahbuba-dev&theme=tokyonight" />
-  <!-- <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahbuba-dev&show_icons=true&theme=transparent&title_color=4E8D9C&icon_color=85C79A" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuba-dev&layout=compact&theme=transparent&title_color=4E8D9C" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuba-dev&layout=compact&theme=tokyonight" />
 </p>
-
 ---
 
 # 🔥 Activity Graph
