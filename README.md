@@ -5,7 +5,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4E8D9C&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mahbuba+Akter;Full‑Stack+Web+Developer;Turning+ideas+into+production‑ready+web+apps;Clean+UI+%7C+Modern+UX+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4E8D9C&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mahbuba+Akter;Full‑Stack+Web+Developer;Clean+UI+%7C+Modern+UX+%7C+Scalable+Systems" />
 </p>
 
 ---
@@ -17,24 +17,27 @@ I love crafting beautiful UI, designing smooth user experiences, and building sy
 - 💻 **Tech Focus:** React, Next.js, Node.js, PostgreSQL, MongoDB  
 - 🎨 **Passion:** Clean UI, modern UX, minimal design  
 - ⚡ **Goal:** Build SaaS platforms & real‑world digital products  
-- 🌍 Based in **New York, USA**  
+- 🌍 Live in **New York, USA**  
 - 🗣️ Bangla & English  
 
 ---
 
-# 🚀 Tech Stack (3D Icons)
+# 🚀 Tech Stack 
 
 <p align="center">
-  <img src="https://cdn.3dicons.co/react.png" width="70" />
-  <img src="https://cdn.3dicons.co/nextjs.png" width="70" />
-  <img src="https://cdn.3dicons.co/typescript.png" width="70" />
-  <img src="https://cdn.3dicons.co/nodejs.png" width="70" />
-  <img src="https://cdn.3dicons.co/express.png" width="70" />
-  <img src="https://cdn.3dicons.co/prisma.png" width="70" />
-  <img src="https://cdn.3dicons.co/postgresql.png" width="70" />
-  <img src="https://cdn.3dicons.co/mongodb.png" width="70" />
-  <img src="https://cdn.3dicons.co/tailwind.png" width="70" />
-  <img src="https://cdn.3dicons.co/cube.png" width="70" title="shadcn/ui" />
+  <img src="/image/icons8-html-50" width="70" />
+  <img src="/image/icons8-css-50.png" width="70" />
+  <img src="/image/icons8-js-50.png" width="70" />
+   <img src="/image/icons8-tailwindcss-50.png" width="70" title="shadcn/ui" />
+  <img src="/image//icons8-react-50.png" width="70" />
+  <img src="/image//icons8-nextjs-50.png" width="70" />
+  <img src="/image/icons8-typescript-50.png" width="70" />
+  <img src="/image/icons8-nodejs-50.png" width="70" />
+  <img src="/image/icons8-express-js-50.png" width="70" />
+  <img src="/image/icons8-postgresql-50.png" width="70" />
+  <img src="/image/icons8-prisma-orm-50.png" width="70" title="shadcn/ui" />
+  <img src="/image/icons8-mongodb-50.png" width="70" title="shadcn/ui" />
+ 
 </p>
 
 ---
@@ -87,11 +90,11 @@ I love crafting beautiful UI, designing smooth user experiences, and building sy
 # 🛠 Tools & Platforms (3D Icons)
 
 <p align="center">
-  <img src="https://cdn.3dicons.co/git.png" width="70" />
-  <img src="https://cdn.3dicons.co/docker.png" width="70" />
-  <img src="https://cdn.3dicons.co/vercel.png" width="70" />
-  <img src="https://cdn.3dicons.co/firebase.png" width="70" />
-  <img src="https://cdn.3dicons.co/figma.png" width="70" />
+  >
+  <img src="image/icons8-docker-50.png" width="70" />
+  <img src="image/icons8-figma-50.png" width="70" />
+  <img src="image/icons8-firebase-50.png" width="70" />
+  <img src="image/icons8-vercel-50.png" width="70" />
 </p>
 
 ---
