@@ -62,7 +62,10 @@ systems with intuitive and seamless interactions.
 - Notification system  
 - Secure authentication  
 
-🔗 Live Demo:  https://consultedge-frontend.vercel.app | 🔗 Repo
+🔗 Live Demo:  https://consultedge-frontend.vercel.app 
+🔗 Repo: https://github.com/mahbuba-dev/consultedge-frontend.git
+         https://github.com/mahbuba-dev/consultedge-backend.git
+                                             
 
 ---
 
@@ -73,7 +76,8 @@ systems with intuitive and seamless interactions.
 - Filtering & pagination  
 - Responsive UI  
 live demo : https://nexora-frontend-nine.vercel.app
-🔗 Repo
+🔗 Repo:  https://github.com/mahbuba-dev/Nexora-Frontend.git
+           https://github.com/mahbuba-dev/Nexora-Backend.git 
 
 ---
 
