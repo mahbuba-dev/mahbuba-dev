@@ -12,8 +12,8 @@
 
 # 👩‍💻 About Me
 I’m a **Full‑Stack Web Developer** focused on building clean, scalable, and production‑ready applications.  
-I love crafting beautiful UI, designing smooth user experiences, and building systems that feel premium.
-
+My main focus is on user experience, clean interface design, and building scalable
+systems with intuitive and seamless interactions.
 - 💻 **Tech Focus:** React, Next.js, Node.js, PostgreSQL, MongoDB  
 - 🎨 **Passion:** Clean UI, modern UX, minimal design  
 - ⚡ **Goal:** Build SaaS platforms & real‑world digital products  
