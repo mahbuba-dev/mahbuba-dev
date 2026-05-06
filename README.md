@@ -102,8 +102,8 @@ systems with intuitive and seamless interactions.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Mahbuba-islam&show_icons=true&theme=transparent&title_color=4E8D9C&icon_color=85C79A" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahbuba-islam&layout=compact&theme=transparent&title_color=4E8D9C" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahbuba-dev&show_icons=true&theme=transparent&title_color=4E8D9C&icon_color=85C79A" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuba-dev&layout=compact&theme=transparent&title_color=4E8D9C" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ systems with intuitive and seamless interactions.
 # 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbuba-islam&theme=github-compact&color=4E8D9C&line=85C79A&point=EDF7BD" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mahbuba-dev&theme=github-compact&color=4E8D9C&line=85C79A&point=EDF7BD" />
 </p>
 
 ---
@@ -122,7 +122,7 @@ systems with intuitive and seamless interactions.
   <a href="https://mahbuba-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-4E8D9C?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://github.com/Mahbuba-islam">
+  <a href="https://github.com/mahbuba-dev">
     <img src="https://img.shields.io/badge/GitHub-281C59?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mahbuba-akter-020157211/">
