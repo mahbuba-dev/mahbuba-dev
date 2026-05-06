@@ -20,7 +20,50 @@ systems with intuitive and seamless interactions.
 - 🌍 Live in **New York, USA**  
 - 🗣️ Bangla & English  
 
+
+## 👩‍💻 About Me
+
+I’m a Full-Stack Web Developer passionate about building clean, scalable, and production-ready web applications that deliver smooth and meaningful user experiences.
+
+I enjoy turning ideas into real-world digital products with a strong focus on usability, performance, and modern UI/UX design.
+
 ---
+
+## 🎯 Focus Areas
+
+💻 Tech Stack: React, Next.js, Node.js, PostgreSQL, MongoDB  
+🎨 Passion: Clean UI, modern UX, minimal and intuitive design systems  
+⚡ Goal: Building SaaS platforms and real-world scalable applications  
+🌍 Location: New York, USA  
+🗣️ Languages: Bangla & English  
+
+---
+
+🌐 Explore My Portfolio: https://mahbuba-portfolio.vercel.app
+
+---
+
+# 🌐 Connect With Me
+<p align="center">
+  <a href="https://mahbuba-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4E8D9C?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/mahbuba-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-281C59?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/mahbuba-akter-020157211/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-85C79A?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:mahbubaislam7010@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EDF7BD?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
+</p>
+
+---
+
 
 # 🚀 Tech Stack 
 
@@ -107,7 +150,6 @@ systems with intuitive and seamless interactions.
 ---
 
 
-
 # 🔥 Activity Graph
 
 <p align="center">
@@ -116,23 +158,9 @@ systems with intuitive and seamless interactions.
 
 ---
 
-# 🌐 Connect With Me
+## ✨ Extra Note
 
-<p align="center">
-  <a href="https://mahbuba-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-4E8D9C?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/mahbuba-dev">
-    <img src="https://img.shields.io/badge/GitHub-281C59?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mahbuba-akter-020157211/">
-    <img src="https://img.shields.io/badge/LinkedIn-85C79A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mahbubaislam7010@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EDF7BD?style=for-the-badge&logo=gmail&logoColor=black" />
-  </a>
-</p>
+I believe in continuous learning, writing better code every day, and building products that solve real problems with simplicity and clarity.
 
----
 
 # 🔥 Keep Going Forward 🥰
