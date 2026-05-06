@@ -25,7 +25,7 @@ systems with intuitive and seamless interactions.
 # 🚀 Tech Stack 
 
 <p align="center">
-  <img src="/image/icons8-html-50" width="70" />
+   <img src="/image/icons8-html-50.png" width="70" />
   <img src="/image/icons8-css-50.png" width="70" />
   <img src="/image/icons8-js-50.png" width="70" />
    <img src="/image/icons8-tailwindcss-50.png" width="70" title="shadcn/ui" />
