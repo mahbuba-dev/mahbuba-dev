@@ -62,11 +62,11 @@ systems with intuitive and seamless interactions.
 - Notification system  
 - Secure authentication  
 
-🔗 Live Demo:  https://consultedge-frontend.vercel.app 
-🔗 Repo: https://github.com/mahbuba-dev/consultedge-frontend.git
-         https://github.com/mahbuba-dev/consultedge-backend.git
-                                             
+### 🔗 ConsultEdge Project Links
 
+- 🔗 **Live Demo:** https://consultedge-frontend.vercel.app  
+- 🔗 **Frontend Repo:** https://github.com/mahbuba-dev/consultedge-frontend.git  
+- 🔗 **Backend Repo:** https://github.com/mahbuba-dev/Consultedge-Brontend.git
 ---
 
 
@@ -74,11 +74,13 @@ systems with intuitive and seamless interactions.
 **Tech:** React, Express.js, MongoDB  
 - Product CRUD  
 - Filtering & pagination  
-- Responsive UI  
-live demo : https://nexora-frontend-nine.vercel.app
-🔗 Repo:  https://github.com/mahbuba-dev/Nexora-Frontend.git
-           https://github.com/mahbuba-dev/Nexora-Backend.git 
+- Responsive UI
+  
+### 🔗 Nexora Project Links
 
+• Live Demo → https://nexora-frontend-nine.vercel.app  
+• Frontend Repository → https://github.com/mahbuba-dev/Nexora-Frontend.git  
+• Backend Repository → https://github.com/mahbuba-dev/Nexora-Backend.git
 ---
 
 ### 🔹 **CareerCode — Full‑Stack Job Portal**
