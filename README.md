@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/image/ai-image-1778072815906.png" alt="Mahbuba Akter Banner" />
+  <img src="/image/banner-mahbuba.png" alt="Mahbuba Akter Banner" />
 </p>
 
 <!-- Typing Animation -->
@@ -135,6 +135,4 @@ I love crafting beautiful UI, designing smooth user experiences, and building sy
 
 ---
 
-# ✨ Final Note
-I believe in building clean, modern, and meaningful digital experiences.  
-Always learning. Always improving. Always building.
+# 🔥 Keep Going Forward 🥰
