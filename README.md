@@ -62,7 +62,18 @@ systems with intuitive and seamless interactions.
 - Notification system  
 - Secure authentication  
 
-🔗 Live Demo | 🔗 Repo
+🔗 Live Demo:  https://consultedge-frontend.vercel.app | 🔗 Repo
+
+---
+
+
+### 🔹 **Nexora(E-commerce)**
+**Tech:** React, Express.js, MongoDB  
+- Product CRUD  
+- Filtering & pagination  
+- Responsive UI  
+live demo : https://nexora-frontend-nine.vercel.app
+🔗 Repo
 
 ---
 
@@ -74,16 +85,6 @@ systems with intuitive and seamless interactions.
 - Modern UI  
 
 🔗 Live Demo | 🔗 Repo
-
----
-
-### 🔹 **E‑Commerce CRUD App**
-**Tech:** React, Express.js, MongoDB  
-- Product CRUD  
-- Filtering & pagination  
-- Responsive UI  
-
-🔗 Repo
 
 ---
 
@@ -99,12 +100,7 @@ systems with intuitive and seamless interactions.
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahbuba-dev&layout=compact&theme=tokyonight" />
-</p>
----
 
 # 🔥 Activity Graph
 
