@@ -1,11 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="/image/banner-mahbuba.png" alt="Mahbuba Akter Banner" />
+  <img src="/image\github-banner.png" alt="Mahbuba Akter Banner" />
 </p>
-
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=38BDF8C&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mahbuba+Akter;Full‑Stack+Web+Developer;Clean+UI+%7C+Modern+UX+%7C+Scalable+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=4E8D9C&center=true&vCenter=true&width=650&lines=Hi,+I'm+Mahbuba+Akter;Full‑Stack+Web+Developer;Clean+UI+%7C+Modern+UX+%7C+Scalable+Systems" />
 </p>
 
 ---
@@ -56,7 +55,7 @@ systems with intuitive and seamless interactions.
 # 🚀 Tech Stack 
 
 <p align="center">
-   <img src="/image/icons8-html-50.png" width="70" />
+  <img src="/image/icons8-html-50" width="70" />
   <img src="/image/icons8-css-50.png" width="70" />
   <img src="/image/icons8-js-50.png" width="70" />
    <img src="/image/icons8-tailwindcss-50.png" width="70" title="shadcn/ui" />
